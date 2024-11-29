@@ -1,3 +1,29 @@
+# Week 11 Code
+Here you can find all the code files from Week 11 of Introduction to Web Development I (Fall 2024) from Paper Airplanes.
+
+The code in `todo-list-react` is different from the code shown in the lecture, mainly to show you how to use state with inputs!
+
+There is a challenge question in 
+`todo-list-react/src/components/ListDisplayItems.jsx`
+to implement so if you're curious, check it out!
+
+## Running code
+To run the code, you will need to download [node.js](https://nodejs.org/en/download/package-manager). 
+This will give you access to the npm command which you can use in the terminal of VScode if you open this repository as a project.
+Then run
+
+```
+npm install # to install the dependencies
+npm start # to start the app
+
+```
+
+
+Otherwise, feel free to use something like https://playcode.io/react which allow you to run React in an environment where everything is set up.
+(just copy and paste the code files in)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

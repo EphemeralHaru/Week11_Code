@@ -1,23 +1,23 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+todo-list-react/node_modules
+todo-list-react/.pnp
+todo-list-react/.pnp.js
 
 # testing
-/coverage
+todo-list-react/coverage
 
 # production
-/build
+todo-list-react/build
 
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+todo-list-react/.DS_Store
+todo-list-react/.env.local
+todo-list-react/.env.development.local
+todo-list-react/.env.test.local
+todo-list-react/.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+todo-list-react/npm-debug.log*
+todo-list-react/yarn-debug.log*
+todo-list-react/yarn-error.log*

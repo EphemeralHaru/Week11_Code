@@ -1,0 +1,43 @@
+body {
+  background-color: #f4e6fa;
+  color: #6a4c93;
+}
+.card {
+  background-color: #fff0f6;
+  border: none;
+  border-radius: 12px;
+}
+
+.btn-purple {
+  background-color: #cfa2f7;
+  border-color: #cfa2f7;
+  color: white;
+}
+.btn-purple:hover {
+  background-color: #b982e5;
+  border-color: #b982e5;
+}
+.btn-outline-purple {
+  border-color: #cfa2f7;
+  color: #6a4c93;
+}
+.btn-outline-purple:hover {
+  background-color: #f4e6fa;
+  border-color: #b982e5;
+  color: #6a4c93;
+}
+
+.overdue {
+  background-color: #6a4c93;
+  color: white;
+}
+
+.overdue .btn-outline-purple {
+  border-color: #cfa2f7;
+  color: white;
+}
+
+.overdue .btn-outline-purple:hover {
+  background-color: #b982e5;
+  color: black;
+}
